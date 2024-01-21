@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Zekariyas Mulugeta
+
+- I have been developing web front end using vue js for the past 2+ years and really enjoyed using vue (Nuxt js) because it gives a good developer experience for developing frontend apps. 
+- I also work with Nest js for the backend which is also amaizing backend framework.
 
 <!--
 **ZackNew/ZackNew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
